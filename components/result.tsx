@@ -95,7 +95,7 @@ export function Result() {
           </div>
           <div className="space-y-2">
             <Label htmlFor="college">College</Label>
-            <Select id="college" value={college} onValueChange={setCollege}>
+            <Select value={college} onValueChange={setCollege}>
               <SelectTrigger>
                 <SelectValue placeholder="Select your college" />
               </SelectTrigger>
