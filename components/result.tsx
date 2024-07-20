@@ -29,7 +29,7 @@ export function Result() {
     let result = "";
     switch (college) {
       case "Ahmedabad":
-        result = "waiting : 6";
+        result = "waiting : 5";
         break;
       case "Bangalore":
         result = "waiting : 7";
