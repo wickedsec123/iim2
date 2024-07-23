@@ -35,13 +35,13 @@ export function Result() {
         result = "waiting : 7";
         break;
       case "Calcutta":
-        result = "waiting : 21";
+        result = "waiting : 15";
         break;
       case "Lucknow":
         result = "Rejected";
         break;
       case "Kozhikode":
-        result = "waiting : 11";
+        result = "waiting : 9";
         break;
       case "Indore":
         result = "N/A";
