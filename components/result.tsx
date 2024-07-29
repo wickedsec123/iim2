@@ -32,7 +32,7 @@ export function Result() {
         result = "waiting : 5";
         break;
       case "Bangalore":
-        result = "waiting : 7";
+        result = "waiting : 4";
         break;
       case "Calcutta":
         result = "waiting : 15";
