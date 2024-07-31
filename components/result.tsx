@@ -29,19 +29,19 @@ export function Result() {
     let result = "";
     switch (college) {
       case "Ahmedabad":
-        result = "waiting : 5";
+        result = "waiting : 4";
         break;
       case "Bangalore":
         result = "waiting : 4";
         break;
       case "Calcutta":
-        result = "waiting : 15";
+        result = "waiting : 7";
         break;
       case "Lucknow":
         result = "Rejected";
         break;
       case "Kozhikode":
-        result = "waiting : 9";
+        result = "waiting : 6";
         break;
       case "Indore":
         result = "N/A";
